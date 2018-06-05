@@ -1,1 +1,1 @@
-bububub
+bubububuyu yugyu
