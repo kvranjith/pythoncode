@@ -8,6 +8,6 @@ response = client.describe_instances()
 for ins in response['Reservations']:
     for vol in ins['Instances']:
         test = vol['InstanceId'],vol['State']['Name']
-        print random_id,'-',test
+        print "output",random_id,'-',test
 
 
